@@ -112,7 +112,7 @@ button#equal {
 }
 
 .calculator button#clear {
-    background-color: gray;
+    background-color: rgb(141, 213, 241);
     color: black;
 }
 
@@ -122,12 +122,12 @@ button#equal {
 }
 
 .calculator button.btn-operator {
-    background-color: gray;
+    background-color: rgb(141, 213, 241);
     color: black;
   }
   
   .calculator button.btn-equal {
-    background-color: gray;
+    background-color: rgb(141, 213, 241);
     color: black;
   }
 
@@ -142,21 +142,21 @@ button#equal {
   }
 
   .calculator.dark button#clear {
-    background-color: black;
+    background-color: rgb(141, 213, 241);
     color: whitesmoke;
   }
 
   .calculator.dark button.btn-number {
-    background-color: black;
-    color: whitesmoke;
+    background-color: rgb(246, 176, 235);
+    color: rgb(255, 255, 255);
   }
 
   .calculator.dark button.btn-operator {
-    background-color: black;
+    background-color: rgb(221, 119, 131);
     color: whitesmoke;
   }
   
   .calculator.dark button.btn-equal {
-    background-color: black;
+    background-color: rgb(141, 213, 241);
     color: whitesmoke;
   }
